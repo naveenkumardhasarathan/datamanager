@@ -1,0 +1,15 @@
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\bin\Debug\netstandard2.0\DataManager.ResourceAccess.deps.json
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\bin\Debug\netstandard2.0\DataManager.ResourceAccess.dll
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\bin\Debug\netstandard2.0\DataManager.ResourceAccess.pdb
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\bin\Debug\netstandard2.0\DataManager.BusinessEntities.dll
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\bin\Debug\netstandard2.0\DataManager.BusinessEntities.pdb
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\obj\Debug\netstandard2.0\DataManager.ResourceAccess.AssemblyInfoInputs.cache
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\obj\Debug\netstandard2.0\DataManager.ResourceAccess.AssemblyInfo.cs
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\obj\Debug\netstandard2.0\DataManager.ResourceAccess.csproj.CopyComplete
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\obj\Debug\netstandard2.0\DataManager.ResourceAccess.dll
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\obj\Debug\netstandard2.0\DataManager.ResourceAccess.pdb
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\obj\Debug\netstandard2.0\DataManager.ResourceAccess.csprojAssemblyReference.cache
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\bin\Debug\netstandard2.0\DataManager.Common.dll
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\bin\Debug\netstandard2.0\DataManager.Common.pdb
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\bin\Debug\netstandard2.0\DataManager.Common.dll.config
+E:\workspace100\dataManager\WebApi\DataManager.ResourceAccess\bin\Debug\netstandard2.0\App.config

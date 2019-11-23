@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {}
+  },
+  "projects": {
+    "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
+        "projectName": "DataManager.Common",
+        "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
+        "packagesPath": "C:\\Users\\ndhasarathan.CH-TELLIANT\\.nuget\\packages\\",
+        "outputPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ndhasarathan.CH-TELLIANT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

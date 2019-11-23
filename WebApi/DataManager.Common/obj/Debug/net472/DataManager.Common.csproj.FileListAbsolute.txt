@@ -1,0 +1,11 @@
+E:\workspace100\dataManager\WebApi\DataManager.Common\bin\Debug\net472\DataManager.Common.dll.config
+E:\workspace100\dataManager\WebApi\DataManager.Common\bin\Debug\net472\DataManager.Common.dll
+E:\workspace100\dataManager\WebApi\DataManager.Common\bin\Debug\net472\DataManager.Common.pdb
+E:\workspace100\dataManager\WebApi\DataManager.Common\bin\Debug\net472\Dapper.dll
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\net472\DataManager.Common.csprojAssemblyReference.cache
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\net472\DataManager.Common.AssemblyInfoInputs.cache
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\net472\DataManager.Common.AssemblyInfo.cs
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\net472\DataManager.Common.csproj.CopyComplete
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\net472\DataManager.Common.dll
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\net472\DataManager.Common.pdb
+E:\workspace100\dataManager\WebApi\DataManager.Common\bin\Debug\net472\App.config

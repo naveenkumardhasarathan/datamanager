@@ -1,0 +1,8 @@
+E:\workspace100\dataManager\WebApi\DataManager.Common\bin\Debug\netstandard2.0\DataManager.Common.deps.json
+E:\workspace100\dataManager\WebApi\DataManager.Common\bin\Debug\netstandard2.0\DataManager.Common.dll
+E:\workspace100\dataManager\WebApi\DataManager.Common\bin\Debug\netstandard2.0\DataManager.Common.pdb
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\netstandard2.0\DataManager.Common.AssemblyInfoInputs.cache
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\netstandard2.0\DataManager.Common.AssemblyInfo.cs
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\netstandard2.0\DataManager.Common.dll
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\netstandard2.0\DataManager.Common.pdb
+E:\workspace100\dataManager\WebApi\DataManager.Common\obj\Debug\netstandard2.0\DataManager.Common.csprojAssemblyReference.cache

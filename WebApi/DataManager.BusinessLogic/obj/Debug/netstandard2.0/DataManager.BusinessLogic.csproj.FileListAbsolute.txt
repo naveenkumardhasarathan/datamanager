@@ -1,0 +1,17 @@
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.BusinessLogic.deps.json
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.BusinessLogic.dll
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.BusinessLogic.pdb
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.BusinessEntities.dll
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.ResourceAccess.dll
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.BusinessEntities.pdb
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.ResourceAccess.pdb
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\obj\Debug\netstandard2.0\DataManager.BusinessLogic.csprojAssemblyReference.cache
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\obj\Debug\netstandard2.0\DataManager.BusinessLogic.AssemblyInfoInputs.cache
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\obj\Debug\netstandard2.0\DataManager.BusinessLogic.AssemblyInfo.cs
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\obj\Debug\netstandard2.0\DataManager.BusinessLogic.csproj.CopyComplete
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\obj\Debug\netstandard2.0\DataManager.BusinessLogic.dll
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\obj\Debug\netstandard2.0\DataManager.BusinessLogic.pdb
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.Common.dll
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.Common.pdb
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\DataManager.Common.dll.config
+E:\workspace100\dataManager\WebApi\DataManager.BusinessLogic\bin\Debug\netstandard2.0\App.config

@@ -1,0 +1,19 @@
+SELECT 
+		SCHEMA_NAME(so.SCHEMA_ID) AS 'schema',
+		so.name AS 'TableName',
+		Coalesce(sc.name, '--') AS 'ColumnName',
+		sc.is_nullable AS 'id',
+		t.name AS 'DataType',
+		sep.value AS 'Description' ,
+		sc.column_id,
+		sep.minor_id,
+		sc.object_id,
+		so.type as objtype,
+		cast(sc.object_id as varchar(10)) +'-'+cast(sc.column_id as varchar(10)) as uniqueobjid
+FROM	sys.objects so INNER JOIN  sys.columns sc ON so.object_id = sc.object_id 
+		INNER JOIN sys.types t ON sc.user_type_id = t.user_type_id 
+		LEFT OUTER JOIN sys.extended_properties sep ON sep.major_id = so.object_id AND sep.minor_id = sc.column_id
+WHERE 1=1
+and
+so.name like '%%' and sc.name like '%%'
+AND  so.type in('U')
