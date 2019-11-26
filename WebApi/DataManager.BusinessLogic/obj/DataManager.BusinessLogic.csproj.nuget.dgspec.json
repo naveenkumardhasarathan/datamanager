@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessLogic\\DataManager.BusinessLogic.csproj": {}
+    "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessLogic\\DataManager.BusinessLogic.csproj": {}
   },
   "projects": {
-    "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj": {
+    "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj",
+        "projectUniqueName": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj",
         "projectName": "DataManager.BusinessEntities",
-        "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj",
+        "projectPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj",
         "packagesPath": "C:\\Users\\ndhasarathan.CH-TELLIANT\\.nuget\\packages\\",
-        "outputPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessEntities\\obj\\",
+        "outputPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessLogic\\DataManager.BusinessLogic.csproj": {
+    "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessLogic\\DataManager.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessLogic\\DataManager.BusinessLogic.csproj",
+        "projectUniqueName": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessLogic\\DataManager.BusinessLogic.csproj",
         "projectName": "DataManager.BusinessLogic",
-        "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessLogic\\DataManager.BusinessLogic.csproj",
+        "projectPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessLogic\\DataManager.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\ndhasarathan.CH-TELLIANT\\.nuget\\packages\\",
-        "outputPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessLogic\\obj\\",
+        "outputPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,11 +88,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj": {
-                "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj"
+              "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj": {
+                "projectPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj"
               },
-              "E:\\workspace100\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj": {
-                "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj"
+              "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj": {
+                "projectPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj"
               }
             }
           }
@@ -127,14 +127,14 @@
         }
       }
     },
-    "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {
+    "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
+        "projectUniqueName": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
         "projectName": "DataManager.Common",
-        "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
+        "projectPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
         "packagesPath": "C:\\Users\\ndhasarathan.CH-TELLIANT\\.nuget\\packages\\",
-        "outputPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\obj\\",
+        "outputPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -144,14 +144,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net472"
+          "net461"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net472": {
+          "net461": {
             "projectReferences": {}
           }
         },
@@ -162,7 +162,7 @@
         }
       },
       "frameworks": {
-        "net472": {
+        "net461": {
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -173,14 +173,14 @@
         }
       }
     },
-    "E:\\workspace100\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj": {
+    "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workspace100\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj",
+        "projectUniqueName": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj",
         "projectName": "DataManager.ResourceAccess",
-        "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj",
+        "projectPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.ResourceAccess\\DataManager.ResourceAccess.csproj",
         "packagesPath": "C:\\Users\\ndhasarathan.CH-TELLIANT\\.nuget\\packages\\",
-        "outputPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.ResourceAccess\\obj\\",
+        "outputPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.ResourceAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -199,11 +199,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj": {
-                "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj"
+              "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj": {
+                "projectPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.BusinessEntities\\DataManager.BusinessEntities.csproj"
               },
-              "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {
-                "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj"
+              "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {
+                "projectPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj"
               }
             }
           }

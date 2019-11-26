@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {}
+    "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {}
   },
   "projects": {
-    "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {
+    "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
+        "projectUniqueName": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
         "projectName": "DataManager.Common",
-        "projectPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
+        "projectPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\DataManager.Common.csproj",
         "packagesPath": "C:\\Users\\ndhasarathan.CH-TELLIANT\\.nuget\\packages\\",
-        "outputPath": "E:\\workspace100\\dataManager\\WebApi\\DataManager.Common\\obj\\",
+        "outputPath": "E:\\workspace100\\NewWorkspace\\dataManager\\WebApi\\DataManager.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net472"
+          "net461"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net472": {
+          "net461": {
             "projectReferences": {}
           }
         },
@@ -39,7 +39,7 @@
         }
       },
       "frameworks": {
-        "net472": {
+        "net461": {
           "dependencies": {
             "Dapper": {
               "target": "Package",
